@@ -19,3 +19,27 @@ for bioinformatics and genomic data analysis.
 I am building these skills through hands-on exercises and bioinformatics
 training, with a focus on using the Linux command line for reproducible
 data analysis.
+
+## Learning Progress
+
+- [✅] Linux file system navigation
+
+- [✅] Creating and managing files and directories
+
+- [✅] Basic Bash commands
+
+- [ ] Pipes and redirection
+
+- [ ] `grep`
+
+- [ ] `cut`
+
+- [ ] `sort` and `uniq`
+
+- [ ] `awk`
+
+- [ ] Working with FASTQ files
+
+- [ ] Working with SAM/BAM files
+
+- [ ] Working with VCF files
